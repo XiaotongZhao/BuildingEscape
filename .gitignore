@@ -1,0 +1,10 @@
+Intermediate/
+Binaries/
+Saved/
+DerivedDataCache/
+*.db
+.vs/BuildingEscape/v15/ipch/AutoPCH/9e44d8f97e1cf1fc/BUILDINGESCAPEGAMEMODEBASE.ipch
+.vs/BuildingEscape/v15/ipch/AutoPCH/57f11817614d5904/BUILDINGESCAPE.ipch
+.vs/BuildingEscape/v15/ipch/AutoPCH/40c4c5baff7b69c/POSITIONREPORT.ipch
+.vs/BuildingEscape/v15/.suo
+.vs/BuildingEscape/v15/ipch/AutoPCH/7d2b83f14f360d49/OPENDOOR.ipch
